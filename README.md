@@ -11,9 +11,4 @@ This project is a simple web-based user registration and login system, built usi
 - **Data Storage**: User details are stored in the browser's local storage.
 - **Error Handling**: Displays alerts using `SweetAlert` when invalid inputs are detected.
 
-Technologies Used
-HTML: The markup for the signup and login forms.
-CSS: Basic styling (you can add your own styles for a better UI).
-JavaScript: Used for form validation, managing user data, and handling login/signup functionality.
-localStorage: For storing user details locally in the browser.
-SweetAlert: For showing alert pop-ups for success and error messages.
+
