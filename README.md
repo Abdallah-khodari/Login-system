@@ -11,10 +11,3 @@ This project is a simple web-based user registration and login system, built usi
 - **Data Storage**: User details are stored in the browser's local storage.
 - **Error Handling**: Displays alerts using `SweetAlert` when invalid inputs are detected.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/my-project.git
